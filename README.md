@@ -1,3 +1,12 @@
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+</div>
+
+
 <div align="center">Hi there 👋
 
 [![Hello World, I'm Quavo!](assets/header.gif)](https://github.com/gerworkspaces)  
@@ -8,14 +17,13 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on[
   
 </div>
 
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning with help from docs.github.com
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with dev.to some guides my mind
-- 💬 Ask me about lifestyle
+-  🔭 I’m currently working at [P33R Finance](https://www.linkedin.com/company/p33r-finance/) where we were [incubated by Tenity](https://www.linkedin.com/posts/p33r-finance_tenity-invests-in-13-disruptive-early-stage-activity-7118550943268294656-cH__?utm_source=share&utm_medium=member_desktop) and selected for [AWS Startups Build Accelerator 2023](https://www.linkedin.com/posts/p33r-finance_p33r-awsbuildaccelerator-activity-7121072561857208320-U9f-?utm_source=share&utm_medium=member_desktop).
+- 🌱 I’m passionate about [serverless in AWS](https://aws.amazon.com/serverless/) and [Web3](https://ethereum.org/en/web3/).
+- 💬 Ask me about _lifestyle_
 - 📫 Contact me at: email:[quang.vo.code@gmail.com] || phone:[+84905907073] || address:[21 Man Quang 6 street, Son Tra ward, Danang city, Vietnam] 
 - 😄 Pronouns: Which one of the gentleman
-- ⚡ Fun fact: difficult situation when i've lost my love.
+- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
+- ⚡ Fun fact: I read books, play the soccer, and sleep with my darling!
 
 <div align="center">
 
@@ -26,7 +34,6 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on[
 ## 💻 My Tech Stack:
 
 [![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
-
 
 
 </div>
