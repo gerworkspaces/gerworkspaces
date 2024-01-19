@@ -10,7 +10,7 @@
 <div align="center">Hi there 👋
 
 [![Hello World, I'm Quavo!](assets/header.gif)](https://github.com/gerworkspaces)  
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on[Pinterest](https://www.pinterest.com/).
+Background GIF by [docs.github]([https://www.pinterest.com/pin/5277724550564022/](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/quang-vo-code/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/#inbox)
@@ -20,7 +20,6 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on[
 -  🔭 I’m currently working at [P33R Finance](https://www.linkedin.com/company/p33r-finance/) where we were [incubated by Tenity](https://www.linkedin.com/posts/p33r-finance_tenity-invests-in-13-disruptive-early-stage-activity-7118550943268294656-cH__?utm_source=share&utm_medium=member_desktop) and selected for [AWS Startups Build Accelerator 2023](https://www.linkedin.com/posts/p33r-finance_p33r-awsbuildaccelerator-activity-7121072561857208320-U9f-?utm_source=share&utm_medium=member_desktop).
 - 🌱 I’m passionate about [serverless in AWS](https://aws.amazon.com/serverless/) and [Web3](https://ethereum.org/en/web3/).
 - 💬 Ask me about _lifestyle_
-- 📫 Contact me at: email:[quang.vo.code@gmail.com] || phone:[+84905907073] || address:[21 Man Quang 6 street, Son Tra ward, Danang city, Vietnam] 
 - 😄 Pronouns: Which one of the gentleman
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: I read books, play the soccer, and sleep with my darling!
