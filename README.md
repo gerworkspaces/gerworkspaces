@@ -30,18 +30,9 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on[
 
 
 </div>
-
-<summary>My Best Languages</summary>
-| Rank |     Language      |
-|-----:|-------------------|
-|     1|     Javascript    |
-|     2|       Python      |
-|     3|       SQL         |
   
 ## **GUIDELINE**
 |  Command       |     Description                                      |
 |  ------------  |     ------------------------                         |
 |  `git-status`  |     List all new or modified files                   |
 |  `git-diff`    |     Show file differences that haven't been staged   |
-
-## **My Best Stacks:**
