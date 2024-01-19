@@ -1,13 +1,12 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+<div align="center">Hi there 👋
 
+[![Hello World, I'm Quavo!](assets/header.gif)](https://github.com/gerworkspaces)  
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on[Pinterest](https://www.pinterest.com/).
 
-### Hi there 👋
-
-**gerworkspaces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/quang-vo-code/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/0/#inbox)
+  
+</div>
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning with help from docs.github.com
@@ -18,21 +17,31 @@
 - 😄 Pronouns: Which one of the gentleman
 - ⚡ Fun fact: difficult situation when i've lost my love.
 
-## ABOUT ME
+<div align="center">
 
-Hi, I'm Quavo. You might recognize me as GitHub's gerworkspaces.
-<details>
+## 💡 A Quote:
+
+[![A Random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+## 💻 My Tech Stack:
+
+[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+
+
+
+</div>
+
 <summary>My Best Languages</summary>
-
 | Rank |     Language      |
 |-----:|-------------------|
 |     1|     Javascript    |
 |     2|       Python      |
 |     3|       SQL         |
-<details/>
   
-## GUIDELINE
+## **GUIDELINE**
 |  Command       |     Description                                      |
 |  ------------  |     ------------------------                         |
 |  `git-status`  |     List all new or modified files                   |
 |  `git-diff`    |     Show file differences that haven't been staged   |
+
+## **My Best Stacks:**
