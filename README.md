@@ -23,6 +23,10 @@ Background GIF by [docs.github]([https://www.pinterest.com/pin/5277724550564022/
 - 😄 Pronouns: Which one of the gentleman
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: I read books, play the soccer, and sleep with my darling!
+- 👋 Hi, I’m @QuangVo
+- 👀 I’m interested in web application development.
+- 🌱 I’m currently learning at Duy Tan University.
+- 📫 You can contact me by email: quang.vo.ielts@gmail.com
 
 <div align="center">
 
@@ -49,3 +53,8 @@ Background GIF by [docs.github]([https://www.pinterest.com/pin/5277724550564022/
 |  ------------  |     ------------------------                         |
 |  `git-status`  |     List all new or modified files                   |
 |  `git-diff`    |     Show file differences that haven't been staged   |
+
+<!---
+gerworkspaces is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
