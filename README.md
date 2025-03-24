@@ -26,7 +26,7 @@ Background GIF by [docs.github]([https://www.pinterest.com/pin/5277724550564022/
 - 👋 Hi, I’m @QuangVo
 - 👀 I’m interested in web application development.
 - 🌱 I’m currently learning at Duy Tan University.
-- 📫 You can contact me by email: quang.vo.ielts@gmail.com
+- 📫 You can contact me by email: quangvodn402@gmail.com
 
 <div align="center">
 
